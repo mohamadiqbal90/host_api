@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "title": "Ikan Koi",
+        "price": "Rp2.000-Rp60.000",
+        "description": "Ikan koi eceran non sertifikat bagus untuk dekor rumah.Harga berbeda tergantung ukuran dan kualitas ikan",
+        "category": "Ikan Tawar",
+        "image": "https://lagunakoi.com/wp-content/uploads/2023/04/6-8-premium-koi__06467.jpg",
+        "rating": {
+          "rate": 4,
+          "count": 200
+        }
+    },
+    {
+        "id": 2,
+        "title": "Ikan Cupang",
+        "price": "Rp5.000-Rp300.000",
+        "description": "Ikan cupang bermacam warna dan kualitas.",
+        "category": "Ikan Tawar",
+        "image": "https://images.tokopedia.net/img/cache/700/product-1/2020/9/3/114413718/114413718_b0f96937-8403-47d6-9308-cf569946714d_680_680.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 50
+        }
+    },
+    {
+        "id": 3,
+        "title": "Ikan Guppy",
+        "price": "Rp1.000",
+        "description": "Ikan guppy kecil warna-warni simpel dan mudah dipelihara.",
+        "category": "Ikan Tawar",
+        "image": "https://asset.kompas.com/crops/hs9FoUkKE8OxxrpPBvVXcMxAbVc=/89x40:1000x648/1200x800/data/photo/2020/11/12/5fac83dd3eaef.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 700
+        }
+    },
+    {
+        "id": 4,
+        "title": "Ikan Badut",
+        "price": "Rp10.000",
+        "description": "Ikan badut, agak susah untuk di pelihara di rekomendasikan membeli koral dan perhatikan ke-asinan air",
+        "category": "Ikan Laut",
+        "image": "https://i.guim.co.uk/img/media/dd93cc7ce4a89b9d14abb0fb4beeea3510c855b1/0_267_4332_2599/master/4332.jpg?width=1200&quality=85&auto=format&fit=max&s=64b07ac993ef71ab7bedfbaf5929b8a7",
+        "rating": {
+            "rate": 5,
+            "count": 100
+        }
+    },
+      {
+        "id": 5,
+        "title": "Ikan Buntal Yellowbox",
+        "price": "Rp10.000",
+        "description": "Ikan buntal yang paling populer untuk di pelihara di aquarium mudah untuk di pelihara. toleransi keasinan air tinggi",
+        "category": "Ikan Laut",
+        "image": "https://krakencorals.co.uk/media/catalog/product/cache/80ed15a9f83d2b6e90ecb6abc6958a25/_/y/_y_e_yellow_boxfish_31.jpg",
+        "rating": {
+            "rate": 4,
+            "count": 100
+        }
+    },
+    {
+        "id": 6,
+        "title": "Anemone",
+        "price": "Rp300.000",
+        "description": "Tumbuhan anemone cocok untuk ikan badut, hati-hati mencampur nya dengan ikan lain karena menyengat.",
+        "category": "Tumbuhan Hidup",
+        "image": "https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/2/16/c8278839-d6d3-4165-93b0-d918fb0a77c8.jpg",
+        "rating": {
+            "rate": 2,
+            "count": 10
+        }
+    },
+    {
+        "id": 7,
+        "title": "Wisteria Air",
+        "price": "Rp50.000",
+        "description": "Tumbuhan air yang lembut banyak pergerakan",
+        "category": "Tumbuhan Hidup",
+        "image": "https://16739590.cdn6.editmysite.com/uploads/1/6/7/3/16739590/s134978747683047696_p49_i1_w3024.jpeg?width=2560",
+        "rating": {
+            "rate": 3,
+            "count": 50
+        }
+    },
+        {
+        "id": 8,
+        "title": "Takari",
+        "price": "Rp4.500-Rp80.000",
+        "description": "Makanan murah cocok untuk pemula. harga berbeda tergantung kualitas, stok life, dan kuantitas",
+        "category": "Obat dan Makanan",
+        "image": "https://cppetindo.com/wp-content/uploads/12.png",
+        "rating": {
+            "rate": 4,
+            "count": 50
+        }
+    },
+            {
+        "id": 9,
+        "title": "Methylene Blue",
+        "price": "Rp10.000",
+        "description": "Cocok untuk parasit dan penyakit whitespot",
+        "category": "Obat dan Makanan",
+        "image": "https://id-live-01.slatic.net/p/5f0712b83bd03aebc9627f696cb00482.jpg",
+        "rating": {
+            "rate": 4,
+            "count": 50
+        }
+    },
+                {
+        "id": 9,
+        "title": "Heater Aquarium",
+        "price": "Rp60.000",
+        "description": "Penting untuk mengatur suhu aquarium",
+        "category": "Dekorasi dan Alat",
+        "image": "https://suryadutainternasional.com/wp-content/uploads/2023/04/Artboard-3-e1681359830243.jpg",
+        "rating": {
+            "rate": 4,
+            "count": 50
+        }
+    },
+                {
+        "id": 10,
+        "title": "Pompa Air Medium",
+        "price": "Rp10.000",
+        "description": "Pompa air untuk sirkulasi udara aquarium",
+        "category": "Dekorasi dan Alat",
+        "image": "https://my-test-11.slatic.net/p/d0015f305d342a4d5caf6268774ae422.jpg",
+        "rating": {
+            "rate": 4,
+            "count": 50
+        }
+    }
+
+
+
+]
